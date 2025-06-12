@@ -1,4 +1,4 @@
-# Apple Website clone
+# ProTech Website
 
 ![Hero section](/public//images/Apple-website-1.png)
 ![Preview section](/public//images/Apple-website-2.png)
