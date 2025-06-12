@@ -72,4 +72,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Lucas Da Silva - [dasilvajunior881@gmail.com](mailto:dasilvajunior881@gmail.com)
+Kiran S Acharya - [kiransacharya@icloud.com](mailto:kiransacharya@icloud.com)
